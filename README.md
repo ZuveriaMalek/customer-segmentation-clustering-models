@@ -27,9 +27,11 @@ This project applies different clustering techniques on a customer dataset to id
 
 1. Clone the repository:
     ```bash
-    https://github.com/ZuveriaMalek/customer-segmentation-clustering-models
+    git clone https://github.com/ZuveriaMalek/customer-segmentation-clustering-models
     ```
-
+   ```bash
+    cd customer-segmentation-clustering-models
+    ```
 2. Install dependencies:
     ```bash
     pip install -r requirements.txt
